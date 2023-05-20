@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
+// @name         Redirect Medium to 12ft
+// @namespace    https://choudry.org
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Redirects Medium to 12ft so no paywall!!
+// @author       Moksh Singh
 // @match        https://*medium.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=telegram.org
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=medium.com
 // @grant        none
 // ==/UserScript==
 
